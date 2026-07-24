@@ -1,0 +1,241 @@
+timestamp,author,text,expected_topic
+2026-02-01 09:00:00,Ben,The rain made the morning commute much slower than usual and this was raised again during the discussion,Weather and commuting
+2026-02-01 09:04:00,Emily,Cold weather seems to be making the morning routine harder for everyone,Weather and commuting
+2026-02-01 09:04:00,Chloe,Several people mentioned that the buses were delayed because of the weather,Weather and commuting
+2026-02-01 09:12:00,Ben,The weather has become a practical issue rather than just a general complaint,Weather and commuting
+2026-02-01 09:12:00,Alice,The rain made the morning commute much slower than usual,Weather and commuting
+2026-02-01 09:10:00,Daniel,Cold weather seems to be making the morning routine harder for everyone,Weather and commuting
+2026-02-01 09:24:00,Alice,I noticed that people were discussing whether to switch to online meetings,Weather and commuting
+2026-02-01 09:14:00,George,Cold weather seems to be making the morning routine harder for everyone,Weather and commuting
+2026-02-01 09:24:00,Emily,The rain made the morning commute much slower than usual,Weather and commuting
+2026-02-01 09:18:00,George,Some students arrived late because the roads were very busy after the rain and this was raised again during the discussion,Weather and commuting
+2026-02-01 09:30:00,Chloe,Cold weather seems to be making the morning routine harder for everyone,Weather and commuting
+2026-02-01 09:33:00,Ben,Several people mentioned that the buses were delayed because of the weather which shows why this point matters for the project,Weather and commuting
+2026-02-01 09:36:00,Ben,Some students arrived late because the roads were very busy after the rain,Weather and commuting
+2026-02-01 09:39:00,Emily,The rain made the morning commute much slower than usual although the group still needs stronger evidence,Weather and commuting
+2026-02-01 09:56:00,Hannah,I noticed that people were discussing whether to switch to online meetings,Weather and commuting
+2026-02-01 09:30:00,George,Several people mentioned that the buses were delayed because of the weather,Weather and commuting
+2026-02-01 10:04:00,Emily,The weather has become a practical issue rather than just a general complaint,Weather and commuting
+2026-02-01 09:51:00,Daniel,Several people mentioned that the buses were delayed because of the weather,Weather and commuting
+2026-02-01 09:36:00,Daniel,The forecast suggests another wet week which may affect travel plans and this was raised again during the discussion,Weather and commuting
+2026-02-01 09:38:00,Daniel,Several people mentioned that the buses were delayed because of the weather,Weather and commuting
+2026-02-01 10:00:00,Emily,The darker mornings also seem to reduce motivation before lectures,Weather and commuting
+2026-02-01 10:24:00,Farah,The wind was strong near the station and it affected people walking in,Weather and commuting
+2026-02-01 10:06:00,Farah,Cold weather seems to be making the morning routine harder for everyone which shows why this point matters for the project,Weather and commuting
+2026-02-01 10:32:00,Emily,Several people mentioned that the buses were delayed because of the weather,Weather and commuting
+2026-02-01 10:36:00,Chloe,I noticed that people were discussing whether to switch to online meetings,Weather and commuting
+2026-02-01 10:40:00,Daniel,The wind was strong near the station and it affected people walking in,Weather and commuting
+2026-02-01 10:18:00,George,The forecast suggests another wet week which may affect travel plans although the group still needs stronger evidence,Weather and commuting
+2026-02-01 10:48:00,Daniel,Some students arrived late because the roads were very busy after the rain and this was raised again during the discussion,Weather and commuting
+2026-02-01 09:56:00,Daniel,The rain made the morning commute much slower than usual,Weather and commuting
+2026-02-01 10:27:00,George,The forecast suggests another wet week which may affect travel plans,Weather and commuting
+2026-02-01 10:00:00,Daniel,The weather has become a practical issue rather than just a general complaint,Weather and commuting
+2026-02-01 11:04:00,Farah,Cold weather seems to be making the morning routine harder for everyone,Weather and commuting
+2026-02-01 11:08:00,Hannah,It would be useful to check travel alerts before leaving home tomorrow,Weather and commuting
+2026-02-01 11:12:00,Hannah,The wind was strong near the station and it affected people walking in which shows why this point matters for the project,Weather and commuting
+2026-02-01 10:42:00,Chloe,Cold weather seems to be making the morning routine harder for everyone,Weather and commuting
+2026-02-01 11:20:00,Emily,The weather has become a practical issue rather than just a general complaint,Weather and commuting
+2026-02-01 10:48:00,George,Some students arrived late because the roads were very busy after the rain and this was raised again during the discussion,Weather and commuting
+2026-02-01 10:14:00,Chloe,I noticed that people were discussing whether to switch to online meetings,Weather and commuting
+2026-02-01 10:54:00,Ben,The rain made the morning commute much slower than usual,Weather and commuting
+2026-02-01 10:18:00,Chloe,The wind was strong near the station and it affected people walking in although the group still needs stronger evidence,Weather and commuting
+2026-02-01 11:40:00,George,The main issue now is making the report concise without removing important detail and this was raised again during the discussion,University workload and deadlines
+2026-02-01 10:22:00,George,The project plan is mostly complete but the evaluation section needs more evidence,University workload and deadlines
+2026-02-01 11:48:00,Hannah,The deadline feels manageable if the remaining work is divided properly,University workload and deadlines
+2026-02-01 11:09:00,Alice,Several group members said they need clearer task allocation before Friday,University workload and deadlines
+2026-02-01 11:56:00,Emily,It may help to create a checklist for references figures and appendix material,University workload and deadlines
+2026-02-01 10:30:00,Emily,The project plan is mostly complete but the evaluation section needs more evidence,University workload and deadlines
+2026-02-01 10:32:00,Hannah,The upcoming coursework deadline is starting to worry a lot of students,University workload and deadlines
+2026-02-01 12:08:00,Emily,The deadline feels manageable if the remaining work is divided properly,University workload and deadlines
+2026-02-01 10:36:00,Ben,The marking criteria should be checked again before the final submission,University workload and deadlines
+2026-02-01 12:16:00,Daniel,The report structure still needs tightening so that each section links properly and this was raised again during the discussion,University workload and deadlines
+2026-02-01 11:30:00,Chloe,The deadline feels manageable if the remaining work is divided properly,University workload and deadlines
+2026-02-01 12:24:00,Alice,The main issue now is making the report concise without removing important detail which shows why this point matters for the project,University workload and deadlines
+2026-02-01 11:36:00,Hannah,The upcoming coursework deadline is starting to worry a lot of students,University workload and deadlines
+2026-02-01 10:46:00,Farah,The marking criteria should be checked again before the final submission although the group still needs stronger evidence,University workload and deadlines
+2026-02-01 10:48:00,Alice,Some people are spending more time formatting than improving the actual content,University workload and deadlines
+2026-02-01 12:40:00,Ben,Several group members said they need clearer task allocation before Friday,University workload and deadlines
+2026-02-01 12:44:00,Hannah,Several group members said they need clearer task allocation before Friday,University workload and deadlines
+2026-02-01 12:48:00,Chloe,The report structure still needs tightening so that each section links properly,University workload and deadlines
+2026-02-01 12:52:00,Hannah,The deadline feels manageable if the remaining work is divided properly and this was raised again during the discussion,University workload and deadlines
+2026-02-01 10:58:00,Emily,The deadline feels manageable if the remaining work is divided properly,University workload and deadlines
+2026-02-01 13:00:00,George,Some people are spending more time formatting than improving the actual content,University workload and deadlines
+2026-02-01 13:04:00,Daniel,The marking criteria should be checked again before the final submission,University workload and deadlines
+2026-02-01 12:06:00,Farah,Everyone should confirm which part they are responsible for before the next meeting which shows why this point matters for the project,University workload and deadlines
+2026-02-01 13:12:00,Hannah,Several group members said they need clearer task allocation before Friday,University workload and deadlines
+2026-02-01 11:08:00,Daniel,Several group members said they need clearer task allocation before Friday,University workload and deadlines
+2026-02-01 12:15:00,Alice,The main issue now is making the report concise without removing important detail,University workload and deadlines
+2026-02-01 13:24:00,Daniel,The main issue now is making the report concise without removing important detail although the group still needs stronger evidence,University workload and deadlines
+2026-02-01 11:14:00,Alice,Several group members said they need clearer task allocation before Friday and this was raised again during the discussion,University workload and deadlines
+2026-02-01 13:32:00,Alice,Some people are spending more time formatting than improving the actual content,University workload and deadlines
+2026-02-01 11:18:00,Alice,It may help to create a checklist for references figures and appendix material,University workload and deadlines
+2026-02-01 11:20:00,Daniel,The marking criteria should be checked again before the final submission,University workload and deadlines
+2026-02-01 13:44:00,Hannah,Some people are spending more time formatting than improving the actual content,University workload and deadlines
+2026-02-01 13:48:00,Chloe,The main issue now is making the report concise without removing important detail,University workload and deadlines
+2026-02-01 13:52:00,Hannah,Some people are spending more time formatting than improving the actual content which shows why this point matters for the project,University workload and deadlines
+2026-02-01 12:42:00,George,Some people are spending more time formatting than improving the actual content,University workload and deadlines
+2026-02-01 11:30:00,Ben,The project plan is mostly complete but the evaluation section needs more evidence,University workload and deadlines
+2026-02-01 12:48:00,George,The project plan is mostly complete but the evaluation section needs more evidence and this was raised again during the discussion,University workload and deadlines
+2026-02-01 12:51:00,Alice,Several group members said they need clearer task allocation before Friday,University workload and deadlines
+2026-02-01 11:36:00,George,It may help to create a checklist for references figures and appendix material,University workload and deadlines
+2026-02-01 11:38:00,Daniel,Some people are spending more time formatting than improving the actual content although the group still needs stronger evidence,University workload and deadlines
+2026-02-01 11:40:00,Hannah,A reminder feature would be useful for elderly users who follow complex schedules and this was raised again during the discussion,Healthcare pill tracking system
+2026-02-01 13:03:00,Chloe,Patient safety depends on accurate medication records and timely alerts,Healthcare pill tracking system
+2026-02-01 13:06:00,Daniel,Healthcare workers may benefit from seeing missed doses in one central dashboard,Healthcare pill tracking system
+2026-02-01 13:09:00,Ben,The pill tracking system could help patients remember whether they took medication,Healthcare pill tracking system
+2026-02-01 14:36:00,Alice,Healthcare workers may benefit from seeing missed doses in one central dashboard,Healthcare pill tracking system
+2026-02-01 11:50:00,Chloe,It is important that the interface stays simple for users with limited technical confidence,Healthcare pill tracking system
+2026-02-01 13:18:00,Hannah,The system should make it easy to see prescription details without confusion,Healthcare pill tracking system
+2026-02-01 13:21:00,Alice,A reminder feature would be useful for elderly users who follow complex schedules,Healthcare pill tracking system
+2026-02-01 13:24:00,Alice,It is important that the interface stays simple for users with limited technical confidence,Healthcare pill tracking system
+2026-02-01 13:27:00,Hannah,Patient safety depends on accurate medication records and timely alerts and this was raised again during the discussion,Healthcare pill tracking system
+2026-02-01 13:30:00,Hannah,A reminder feature would be useful for elderly users who follow complex schedules,Healthcare pill tracking system
+2026-02-01 12:02:00,Emily,The system should make it easy to see prescription details without confusion which shows why this point matters for the project,Healthcare pill tracking system
+2026-02-01 12:04:00,Alice,The admin dashboard could help care agencies monitor several patients at once,Healthcare pill tracking system
+2026-02-01 12:06:00,Alice,The main value is improving medication adherence and reducing manual checking although the group still needs stronger evidence,Healthcare pill tracking system
+2026-02-01 13:42:00,Chloe,The pill tracking system could help patients remember whether they took medication,Healthcare pill tracking system
+2026-02-01 15:20:00,Ben,A reminder feature would be useful for elderly users who follow complex schedules,Healthcare pill tracking system
+2026-02-01 12:12:00,Ben,The system should make it easy to see prescription details without confusion,Healthcare pill tracking system
+2026-02-01 13:51:00,Ben,The main value is improving medication adherence and reducing manual checking,Healthcare pill tracking system
+2026-02-01 12:16:00,Alice,The main value is improving medication adherence and reducing manual checking and this was raised again during the discussion,Healthcare pill tracking system
+2026-02-01 12:18:00,George,The main value is improving medication adherence and reducing manual checking,Healthcare pill tracking system
+2026-02-01 15:40:00,Farah,Patient safety depends on accurate medication records and timely alerts,Healthcare pill tracking system
+2026-02-01 12:22:00,Farah,The system should make it easy to see prescription details without confusion,Healthcare pill tracking system
+2026-02-01 14:06:00,George,A reminder feature would be useful for elderly users who follow complex schedules which shows why this point matters for the project,Healthcare pill tracking system
+2026-02-01 15:52:00,Emily,Missed dose alerts could support earlier intervention by carers or healthcare staff,Healthcare pill tracking system
+2026-02-01 14:12:00,Ben,The pill tracking system could help patients remember whether they took medication,Healthcare pill tracking system
+2026-02-01 14:15:00,Ben,Healthcare workers may benefit from seeing missed doses in one central dashboard,Healthcare pill tracking system
+2026-02-01 16:04:00,Daniel,The application should avoid showing too much information on one screen although the group still needs stronger evidence,Healthcare pill tracking system
+2026-02-01 14:21:00,Chloe,The admin dashboard could help care agencies monitor several patients at once and this was raised again during the discussion,Healthcare pill tracking system
+2026-02-01 12:36:00,Daniel,The admin dashboard could help care agencies monitor several patients at once,Healthcare pill tracking system
+2026-02-01 14:27:00,Chloe,Missed dose alerts could support earlier intervention by carers or healthcare staff,Healthcare pill tracking system
+2026-02-01 16:20:00,Emily,The main value is improving medication adherence and reducing manual checking,Healthcare pill tracking system
+2026-02-01 16:24:00,Alice,The application should avoid showing too much information on one screen,Healthcare pill tracking system
+2026-02-01 14:36:00,Ben,A reminder feature would be useful for elderly users who follow complex schedules,Healthcare pill tracking system
+2026-02-01 14:39:00,Ben,Healthcare workers may benefit from seeing missed doses in one central dashboard which shows why this point matters for the project,Healthcare pill tracking system
+2026-02-01 16:36:00,Chloe,Patient safety depends on accurate medication records and timely alerts,Healthcare pill tracking system
+2026-02-01 14:45:00,Daniel,The admin dashboard could help care agencies monitor several patients at once,Healthcare pill tracking system
+2026-02-01 12:52:00,Emily,The application should avoid showing too much information on one screen and this was raised again during the discussion,Healthcare pill tracking system
+2026-02-01 14:51:00,Emily,The pill tracking system could help patients remember whether they took medication,Healthcare pill tracking system
+2026-02-01 12:56:00,George,Patient safety depends on accurate medication records and timely alerts,Healthcare pill tracking system
+2026-02-01 12:58:00,Alice,The admin dashboard could help care agencies monitor several patients at once although the group still needs stronger evidence,Healthcare pill tracking system
+2026-02-01 13:00:00,Emily,Access control is important because not every user should see the same records and this was raised again during the discussion,Data privacy and ethics
+2026-02-01 17:04:00,Hannah,Data minimisation is useful because it reduces the risk of exposing private details,Data privacy and ethics
+2026-02-01 17:08:00,George,Data minimisation is useful because it reduces the risk of exposing private details,Data privacy and ethics
+2026-02-01 13:06:00,Ben,The project should avoid collecting unnecessary patient details,Data privacy and ethics
+2026-02-01 17:16:00,Chloe,Data minimisation is useful because it reduces the risk of exposing private details,Data privacy and ethics
+2026-02-01 13:10:00,Farah,Security is not just technical because users also need clear guidance and trust,Data privacy and ethics
+2026-02-01 17:24:00,Chloe,The system should keep the focus on safety rather than surveillance,Data privacy and ethics
+2026-02-01 13:14:00,Alice,Ethical design means supporting users without making them feel constantly watched,Data privacy and ethics
+2026-02-01 15:24:00,Alice,Patient information should only be visible to authorised carers or healthcare workers,Data privacy and ethics
+2026-02-01 13:18:00,Daniel,The project should avoid collecting unnecessary patient details and this was raised again during the discussion,Data privacy and ethics
+2026-02-01 15:30:00,George,Security is not just technical because users also need clear guidance and trust,Data privacy and ethics
+2026-02-01 17:44:00,Chloe,The report should explain how sensitive data would be protected in a real deployment which shows why this point matters for the project,Data privacy and ethics
+2026-02-01 13:24:00,Chloe,The system should keep the focus on safety rather than surveillance,Data privacy and ethics
+2026-02-01 13:26:00,Chloe,Patient information should only be visible to authorised carers or healthcare workers although the group still needs stronger evidence,Data privacy and ethics
+2026-02-01 15:42:00,Daniel,Ethical design means supporting users without making them feel constantly watched,Data privacy and ethics
+2026-02-01 13:30:00,Ben,The system should keep the focus on safety rather than surveillance,Data privacy and ethics
+2026-02-01 13:32:00,Hannah,The report should explain how sensitive data would be protected in a real deployment,Data privacy and ethics
+2026-02-01 13:34:00,Hannah,Patient information should only be visible to authorised carers or healthcare workers,Data privacy and ethics
+2026-02-01 15:54:00,Daniel,The report should explain how sensitive data would be protected in a real deployment and this was raised again during the discussion,Data privacy and ethics
+2026-02-01 13:38:00,Daniel,The system should keep the focus on safety rather than surveillance,Data privacy and ethics
+2026-02-01 16:00:00,Emily,The project should avoid collecting unnecessary patient details,Data privacy and ethics
+2026-02-01 16:03:00,Farah,Data minimisation is useful because it reduces the risk of exposing private details,Data privacy and ethics
+2026-02-01 16:06:00,Farah,Any healthcare related system needs careful handling of personal information which shows why this point matters for the project,Data privacy and ethics
+2026-02-01 13:46:00,Emily,Access control is important because not every user should see the same records,Data privacy and ethics
+2026-02-01 18:36:00,Emily,Any healthcare related system needs careful handling of personal information,Data privacy and ethics
+2026-02-01 13:50:00,George,Patient information should only be visible to authorised carers or healthcare workers,Data privacy and ethics
+2026-02-01 18:44:00,Farah,The system should keep the focus on safety rather than surveillance although the group still needs stronger evidence,Data privacy and ethics
+2026-02-01 18:48:00,Ben,The system should keep the focus on safety rather than surveillance and this was raised again during the discussion,Data privacy and ethics
+2026-02-01 18:52:00,Daniel,Ethical design means supporting users without making them feel constantly watched,Data privacy and ethics
+2026-02-01 13:58:00,George,Any healthcare related system needs careful handling of personal information,Data privacy and ethics
+2026-02-01 19:00:00,Daniel,Patient information should only be visible to authorised carers or healthcare workers,Data privacy and ethics
+2026-02-01 16:33:00,Ben,Patient information should only be visible to authorised carers or healthcare workers,Data privacy and ethics
+2026-02-01 19:08:00,Farah,The project should avoid collecting unnecessary patient details,Data privacy and ethics
+2026-02-01 19:12:00,Emily,Data minimisation is useful because it reduces the risk of exposing private details which shows why this point matters for the project,Data privacy and ethics
+2026-02-01 16:42:00,George,Patient information should only be visible to authorised carers or healthcare workers,Data privacy and ethics
+2026-02-01 16:45:00,Emily,Data minimisation is useful because it reduces the risk of exposing private details,Data privacy and ethics
+2026-02-01 14:12:00,Daniel,The system should keep the focus on safety rather than surveillance and this was raised again during the discussion,Data privacy and ethics
+2026-02-01 19:28:00,George,Access control is important because not every user should see the same records,Data privacy and ethics
+2026-02-01 19:32:00,Emily,The system should keep the focus on safety rather than surveillance,Data privacy and ethics
+2026-02-01 19:36:00,Alice,Ethical design means supporting users without making them feel constantly watched although the group still needs stronger evidence,Data privacy and ethics
+2026-02-01 17:00:00,Daniel,Error messages should be clear enough for a user to understand what went wrong and this was raised again during the discussion,App testing and technical implementation
+2026-02-01 19:44:00,Farah,Testing should include normal cases as well as missing or invalid inputs,App testing and technical implementation
+2026-02-01 17:06:00,Hannah,Unit tests can check whether helper functions return the expected values,App testing and technical implementation
+2026-02-01 19:52:00,Hannah,The dashboard should load patient data without breaking when some fields are empty,App testing and technical implementation
+2026-02-01 19:56:00,Ben,Manual testing is still useful because it shows whether the interface feels understandable,App testing and technical implementation
+2026-02-01 20:00:00,Farah,Database inserts need checking to confirm that prescription records are saved properly,App testing and technical implementation
+2026-02-01 14:32:00,Emily,Unit tests can check whether helper functions return the expected values,App testing and technical implementation
+2026-02-01 14:34:00,Chloe,The login page should be tested with both correct and incorrect details,App testing and technical implementation
+2026-02-01 14:36:00,Daniel,Testing should include normal cases as well as missing or invalid inputs,App testing and technical implementation
+2026-02-01 20:16:00,Ben,Testing should include normal cases as well as missing or invalid inputs and this was raised again during the discussion,App testing and technical implementation
+2026-02-01 17:30:00,Daniel,Error messages should be clear enough for a user to understand what went wrong,App testing and technical implementation
+2026-02-01 17:33:00,George,Unit tests can check whether helper functions return the expected values which shows why this point matters for the project,App testing and technical implementation
+2026-02-01 14:44:00,Alice,Database inserts need checking to confirm that prescription records are saved properly,App testing and technical implementation
+2026-02-01 17:39:00,Daniel,The dashboard should load patient data without breaking when some fields are empty although the group still needs stronger evidence,App testing and technical implementation
+2026-02-01 20:36:00,Hannah,The login page should be tested with both correct and incorrect details,App testing and technical implementation
+2026-02-01 20:40:00,Daniel,Database inserts need checking to confirm that prescription records are saved properly,App testing and technical implementation
+2026-02-01 17:48:00,Chloe,Testing should include normal cases as well as missing or invalid inputs,App testing and technical implementation
+2026-02-01 20:48:00,Farah,Testing should include normal cases as well as missing or invalid inputs,App testing and technical implementation
+2026-02-01 20:52:00,George,The Streamlit pages need to be checked after navigation between roles and this was raised again during the discussion,App testing and technical implementation
+2026-02-01 17:57:00,Chloe,Testing should include normal cases as well as missing or invalid inputs,App testing and technical implementation
+2026-02-01 18:00:00,Emily,Unit tests can check whether helper functions return the expected values,App testing and technical implementation
+2026-02-01 21:04:00,Emily,The Streamlit pages need to be checked after navigation between roles,App testing and technical implementation
+2026-02-01 18:06:00,Daniel,Manual testing is still useful because it shows whether the interface feels understandable which shows why this point matters for the project,App testing and technical implementation
+2026-02-01 18:09:00,Ben,Manual testing is still useful because it shows whether the interface feels understandable,App testing and technical implementation
+2026-02-01 15:08:00,Emily,The SQLite database should be inspected to confirm that relationships are correct,App testing and technical implementation
+2026-02-01 18:15:00,Ben,The dashboard should load patient data without breaking when some fields are empty,App testing and technical implementation
+2026-02-01 15:12:00,Daniel,Error messages should be clear enough for a user to understand what went wrong although the group still needs stronger evidence,App testing and technical implementation
+2026-02-01 21:28:00,Chloe,Unit tests can check whether helper functions return the expected values and this was raised again during the discussion,App testing and technical implementation
+2026-02-01 15:16:00,George,Error messages should be clear enough for a user to understand what went wrong,App testing and technical implementation
+2026-02-01 18:27:00,Hannah,Error messages should be clear enough for a user to understand what went wrong,App testing and technical implementation
+2026-02-01 15:20:00,Daniel,Error messages should be clear enough for a user to understand what went wrong,App testing and technical implementation
+2026-02-01 18:33:00,Alice,The implementation evidence should show screenshots logs and brief explanations,App testing and technical implementation
+2026-02-01 18:36:00,Hannah,The login page should be tested with both correct and incorrect details,App testing and technical implementation
+2026-02-01 18:39:00,Emily,Error messages should be clear enough for a user to understand what went wrong which shows why this point matters for the project,App testing and technical implementation
+2026-02-01 18:42:00,Daniel,Testing should include normal cases as well as missing or invalid inputs,App testing and technical implementation
+2026-02-01 15:30:00,Emily,Error messages should be clear enough for a user to understand what went wrong,App testing and technical implementation
+2026-02-01 18:48:00,Alice,Error messages should be clear enough for a user to understand what went wrong and this was raised again during the discussion,App testing and technical implementation
+2026-02-01 18:51:00,George,The dashboard should load patient data without breaking when some fields are empty,App testing and technical implementation
+2026-02-01 18:54:00,Chloe,The implementation evidence should show screenshots logs and brief explanations,App testing and technical implementation
+2026-02-01 22:16:00,Alice,Error messages should be clear enough for a user to understand what went wrong although the group still needs stronger evidence,App testing and technical implementation
+2026-02-01 22:20:00,Alice,The prototype works as a proof of concept but would need more testing before real use and this was raised again during the discussion,Evaluation and future improvements
+2026-02-01 22:24:00,George,Future work could include automatic notifications for carers when doses are missed,Evaluation and future improvements
+2026-02-01 19:06:00,Chloe,The final evaluation should discuss both strengths and limitations honestly,Evaluation and future improvements
+2026-02-01 19:09:00,George,More realistic user testing would help identify usability problems,Evaluation and future improvements
+2026-02-01 15:48:00,Hannah,More realistic user testing would help identify usability problems,Evaluation and future improvements
+2026-02-01 19:15:00,George,The system could later connect to a physical pill dispenser for stronger evidence,Evaluation and future improvements
+2026-02-01 19:18:00,Emily,The prototype works as a proof of concept but would need more testing before real use,Evaluation and future improvements
+2026-02-01 19:21:00,Alice,The final report should avoid claiming the system is ready for clinical deployment,Evaluation and future improvements
+2026-02-01 15:56:00,Farah,A mobile version may improve accessibility for patients and healthcare workers,Evaluation and future improvements
+2026-02-01 22:56:00,Ben,The final evaluation should discuss both strengths and limitations honestly and this was raised again during the discussion,Evaluation and future improvements
+2026-02-01 16:00:00,Daniel,A mobile version may improve accessibility for patients and healthcare workers,Evaluation and future improvements
+2026-02-01 16:02:00,Chloe,A mobile version may improve accessibility for patients and healthcare workers which shows why this point matters for the project,Evaluation and future improvements
+2026-02-01 16:04:00,Hannah,The prototype works as a proof of concept but would need more testing before real use,Evaluation and future improvements
+2026-02-01 23:12:00,Daniel,A larger dataset would make the evaluation more convincing although the group still needs stronger evidence,Evaluation and future improvements
+2026-02-01 23:16:00,Emily,More realistic user testing would help identify usability problems,Evaluation and future improvements
+2026-02-01 16:10:00,Ben,Future work could include automatic notifications for carers when doses are missed,Evaluation and future improvements
+2026-02-01 19:48:00,Ben,The strongest outcome is showing a working prototype with a clear healthcare purpose,Evaluation and future improvements
+2026-02-01 16:14:00,Emily,The strongest outcome is showing a working prototype with a clear healthcare purpose,Evaluation and future improvements
+2026-02-01 23:32:00,George,The project shows potential but privacy and reliability would need further development and this was raised again during the discussion,Evaluation and future improvements
+2026-02-01 23:36:00,Daniel,The prototype works as a proof of concept but would need more testing before real use,Evaluation and future improvements
+2026-02-01 23:40:00,Daniel,The prototype works as a proof of concept but would need more testing before real use,Evaluation and future improvements
+2026-02-01 23:44:00,Emily,The strongest outcome is showing a working prototype with a clear healthcare purpose,Evaluation and future improvements
+2026-02-01 16:24:00,Alice,More realistic user testing would help identify usability problems which shows why this point matters for the project,Evaluation and future improvements
+2026-02-01 23:52:00,George,More realistic user testing would help identify usability problems,Evaluation and future improvements
+2026-02-01 16:28:00,Farah,The final evaluation should discuss both strengths and limitations honestly,Evaluation and future improvements
+2026-02-01 20:15:00,Hannah,The prototype works as a proof of concept but would need more testing before real use,Evaluation and future improvements
+2026-02-01 20:18:00,Farah,A larger dataset would make the evaluation more convincing although the group still needs stronger evidence,Evaluation and future improvements
+2026-02-02 00:08:00,Chloe,The project shows potential but privacy and reliability would need further development and this was raised again during the discussion,Evaluation and future improvements
+2026-02-01 16:36:00,Emily,The strongest outcome is showing a working prototype with a clear healthcare purpose,Evaluation and future improvements
+2026-02-02 00:16:00,Hannah,A larger dataset would make the evaluation more convincing,Evaluation and future improvements
+2026-02-01 20:30:00,Emily,More realistic user testing would help identify usability problems,Evaluation and future improvements
+2026-02-01 16:42:00,Ben,The system could later connect to a physical pill dispenser for stronger evidence,Evaluation and future improvements
+2026-02-01 20:36:00,Daniel,A larger dataset would make the evaluation more convincing,Evaluation and future improvements
+2026-02-02 00:32:00,George,More realistic user testing would help identify usability problems which shows why this point matters for the project,Evaluation and future improvements
+2026-02-01 16:48:00,Hannah,More realistic user testing would help identify usability problems,Evaluation and future improvements
+2026-02-01 16:50:00,Hannah,A mobile version may improve accessibility for patients and healthcare workers,Evaluation and future improvements
+2026-02-01 20:48:00,Emily,More realistic user testing would help identify usability problems and this was raised again during the discussion,Evaluation and future improvements
+2026-02-01 20:51:00,Emily,The final report should avoid claiming the system is ready for clinical deployment,Evaluation and future improvements
+2026-02-01 16:56:00,Daniel,The prototype works as a proof of concept but would need more testing before real use,Evaluation and future improvements
+2026-02-01 16:58:00,George,A larger dataset would make the evaluation more convincing although the group still needs stronger evidence,Evaluation and future improvements

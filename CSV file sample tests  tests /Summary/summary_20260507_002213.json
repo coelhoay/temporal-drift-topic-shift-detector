@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "window_size": 8,
+    "stride": 1,
+    "ewma_alpha": 0.3,
+    "cpd_method": "ruptures_pelt_1d",
+    "penalty": 1.0,
+    "n_bkps": null,
+    "min_segment_length": 2,
+    "drift_threshold": 0.2,
+    "use_bertopic": false
+  },
+  "change_points": [],
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_idx": 0,
+      "end_idx": 240,
+      "start_time": "2026-02-01 09:00:00",
+      "end_time": "2026-02-02 00:32:00",
+      "n_messages": 240,
+      "keywords": "project, more, testing, again, group",
+      "representative_message": "Healthcare workers may benefit from seeing missed doses in one central dashboard which shows why this point matters for the project"
+    }
+  ]
+}

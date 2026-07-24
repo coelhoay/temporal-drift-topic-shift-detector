@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "window_size": 8,
+    "stride": 1,
+    "ewma_alpha": 0.3,
+    "cpd_method": "ruptures_pelt_1d",
+    "penalty": 1.0,
+    "n_bkps": null,
+    "min_segment_length": 2,
+    "drift_threshold": 0.2,
+    "use_bertopic": false
+  },
+  "change_points": [],
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_idx": 0,
+      "end_idx": 20,
+      "start_time": "2026-01-01 09:00:00",
+      "end_time": "2026-01-01 09:38:00",
+      "n_messages": 20,
+      "keywords": "really, pizza, year, watch, my",
+      "representative_message": "I had to wear a heavy jacket this morning"
+    }
+  ]
+}
